@@ -1,0 +1,19 @@
+{
+  "name": "emulated-android-arrow.js",
+  "version": "1.0.0",
+  "description": "Arrow Slider like Android launcher's arrow",
+  "main": "dist/emulated-android-arrow.js",
+  "keywords": [
+    "android",
+    "arrow",
+    "slider",
+    "html",
+    "css",
+    "javascript",
+    "js",
+    "web",
+    "front-end"
+  ],
+  "author": "KenClaron",
+  "license": "MIT"
+}
