@@ -87,7 +87,7 @@ The Emulated-Android-Arrow.js licensed under the [MIT license](https://opensourc
 
 > You can express your gratitude by clicking on one of the links
 
-- [Personal website](https://kenclaron.ru)
+- [Personal website](https://kenclaron.github.io/kenclaron/)
 - [VK](https://vk.com/club190729942)
 
 ___________________________________
