@@ -2,7 +2,7 @@
 ![npm](https://img.shields.io/npm/dt/emulated-android-arrow.js)
 > Smooth vanilla JavaScript arrow slider like Android launcher's arrow for website.
 
-[Website for preview](http://kenclaron.ru)
+[Website for preview](https://kenclaron.github.io/kenclaron/)
 
 ## Table of contents
 - [Features](#features)
